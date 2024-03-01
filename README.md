@@ -25,3 +25,14 @@ My PhD advisor is [Dr. Oszkár Semeráth](https://mit.bme.hu/~semerath).
 - 2020 - present: **Refinery** [<i class="fab fa-github"></i>](https://github.com/graphs4value/refinery)  
   _Efficient graph solver for generating well-formed models._
 
+## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
+- **[ICSE'24](https://conf.researchr.org/home/icse-2024)** **Refinery: Graph Solver as a Service**  
+  With K. Marussy, T. Kapus, O. Semeráth, D. Varró &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/icse24.pdf)
+- **[CSCS'22](https://www.inf.u-szeged.hu/~cscs/cscs2022/index.php)** **Semantic Robustness Testing for Vision-Based Machine Learning Components of Autonomous Cyber-Physical Systems**  
+  [<i class="fas fa-file-alt"></i>&nbsp;paper](publications/cscs22_1.pdf)
+- **[CSCS'22](https://www.inf.u-szeged.hu/~cscs/cscs2022/index.php)** **Toolchain for the Construction of Realistic Simulated Urban Environments**  
+  With B. Pintér  &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/cscs22_2.pdf)
+- **[MINISY'22](https://www.mit.bme.hu/eng/research/minisymposium)** **An Initial Performance Analysis of Graph Predicate Evaluation over Partial Models**  
+  With O. Semeráth &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/minisy22.pdf)
+
+**[Full list of publications](publications.html)** / [Google Scholar](https://scholar.google.hu/citations?user=GY5_AzUAAAAJ)
