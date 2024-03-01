@@ -26,3 +26,20 @@ title: Publications
 </style>
 
 <script src="https://bibbase.org/show?bib=https://nagilooh.github.io%2Fpublications.bib&jsonp=1&theme=side"></script>
+
+<script>
+    function underliner() {
+        var nameSpans = document.querySelectorAll("span.bibbase_paper_author");
+        nameSpans.forEach(span => {
+            span.innerHTML = span.innerHTML.replaceAll("Ficsor, A.", "<u>Ficsor, A.</u>");
+        });
+    }
+    underliner();
+    var divToWatch = document.getElementById("bibbase");
+    var observer = new MutationObserver(() => {
+        observer.disconnect();
+        underliner();
+        observer.observe(divToWatch, {subtree: true, childList: true});
+    });
+    observer.observe(divToWatch, {subtree: true, childList: true}); 
+</script>
