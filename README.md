@@ -7,9 +7,9 @@ My PhD advisor is [Dr. Oszkár Semeráth](https://mit.bme.hu/~semerath).
 - 2022 - present: **Budapest University of Technology and Economics**  
   Computer science PhD, _advised by [Dr. Oszkár Semeráth](http://mit.bme.hu/~semerath/)_  
 - 2020 - 2022: **Budapest University of Technology and Economics**  
-  Computer Engineering MSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/mscthesis2022.pdf)
+  Computer Engineering MSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/mscthesis22.pdf)
 - 2016 - 2020: **Budapest University of Technology and Economics**  
-  Computer Engineering BSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/bscthesis2020.pdf)
+  Computer Engineering BSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/bscthesis20.pdf)
 
 ## <i class="fas fa-briefcase fa-fw"></i> Employment
 - 2022 - present: **[Budapest University of Technology and Economics](http://www.mit.bme.hu/eng/)**, Budapest, Hungary, **Teaching Assistant**  
