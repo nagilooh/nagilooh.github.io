@@ -1,5 +1,5 @@
 ## <i class="fas fa-user fa-fw"></i> About Me
-I am a PhD Student at the Budapest University of Technology and Economics, Hungary. My research interests include model-driven engineering, graph transformation, and autonomous vehicle testing.  I am a member of the [Critical Systems Research Group](https://ftsrg.mit.bme.hu/en/) at the Department of Measurement and Information Systems.
+I am a PhD Student at the Budapest University of Technology and Economics, Hungary. My research interests include model-driven engineering, graph transformation, and autonomous vehicle testing.  I am a member of the [Critical Systems Research Group](https://ftsrg.mit.bme.hu/en/) at the Department of Artificial Intelligence and Systems Engineering.
 
 My PhD advisor is [Dr. Oszkár Semeráth](https://mit.bme.hu/~semerath).
 
