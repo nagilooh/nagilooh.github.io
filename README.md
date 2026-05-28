@@ -26,12 +26,22 @@ My PhD advisor is [Dr. Oszkár Semeráth](https://mit.bme.hu/~semerath).
   _Efficient graph solver for generating well-formed models._
 
 ## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
+
+- **[ECMFA'26](https://conf.researchr.org/track/ecmfa-2026/ecmfa-2026)** **From Constraints to Commands: Graph Pattern Differentiation in 4-Valued First-Order Logic**  
+  With P. I. Papp, K. Marussy, O. Semeráth &nbsp;
+
+- **[SoSyM'26](https://www.sosym.org/)** **Automated and logically exhaustive generation of traffic scenarios at road junctions using a multi-level danger definition**  
+  With A. A. Babikian, O. Semeráth, G. Mussbacher, D. Varró &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://rdcu.be/fjZ1w)
+
 - **[ICSE'24](https://conf.researchr.org/home/icse-2024)** **Refinery: Graph Solver as a Service**  
-  With K. Marussy, T. Kapus, O. Semeráth, D. Varró &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/icse24.pdf)
+  With K. Marussy, O. Semeráth, D. Varró &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/icse24.pdf)
+
 - **[CSCS'22](https://www.inf.u-szeged.hu/~cscs/cscs2022/index.php)** **Semantic Robustness Testing for Vision-Based Machine Learning Components of Autonomous Cyber-Physical Systems**  
   [<i class="fas fa-file-alt"></i>&nbsp;paper](publications/cscs22_1.pdf)
+
 - **[CSCS'22](https://www.inf.u-szeged.hu/~cscs/cscs2022/index.php)** **Toolchain for the Construction of Realistic Simulated Urban Environments**  
   With B. Pintér  &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/cscs22_2.pdf)
+
 - **[MINISY'22](https://www.mit.bme.hu/eng/research/minisymposium)** **An Initial Performance Analysis of Graph Predicate Evaluation over Partial Models**  
   With O. Semeráth &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/minisy22.pdf)
 
