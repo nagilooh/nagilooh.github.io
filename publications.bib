@@ -1,22 +1,66 @@
+@article{MTMT:37312880,
+	title = {From Constraints to Commands: Graph Pattern Differentiation in 4-Valued First-Order Logic},
+	url_mtmt = {https://m2.mtmt.hu/api/publication/37312880},
+	author = {Ficsor, Attila and Papp, Inez Anna and Marussy, Kristóf and Semeráth, Oszkár},
+	journal-iso = {J OBJECT TECHNOL},
+	journal = {JOURNAL OF OBJECT TECHNOLOGY},
+	unique-id = {37312880},
+	issn = {1660-1769},
+	year = {2026},
+	pages = {1-14},
+	orcid-numbers = {Ficsor, Attila/0000-0002-0541-4590; Marussy, Kristóf/0000-0002-9135-8256; Semeráth, Oszkár/0000-0002-3592-5105}
+}
+
+@article{MTMT:37253633,
+	title = {Automated and logically exhaustive generation of traffic scenarios at road junctions using a multi-level danger definition},
+	url_mtmt = {https://m2.mtmt.hu/api/publication/37253633},
+	author = {Babikian, Aren A. and Ficsor, Attila and Semeráth, Oszkár and Mussbacher, Gunter and Varró, Dániel},
+	doi = {10.1007/s10270-026-01372-y},
+	journal-iso = {SOFTW SYST MODEL},
+	journal = {SOFTWARE AND SYSTEMS MODELING},
+	unique-id = {37253633},
+	issn = {1619-1366},
+	abstract = {To ensure their safe use, autonomous driving systems (ADSs) must meet rigorous safety assurance criteria that involve executing maneuvers safely within arbitrary scenarios where other actors perform their intended maneuvers. For that purpose, existing scenario generation approaches optimize search to derive scenarios with high probability of dangerous interactions. In this paper, we hypothesize that at road junctions, potential danger predominantly arises from overlapping paths of individual actors carrying out their designated high-level (abstract) maneuvers. As a step toward ADS safety assurance, we propose an approach to derive an exhaustive set of potentially dangerous logical scenarios at any given road junction, i.e., all permutations of overlapping maneuvers assigned to actors, including the ADS, for a given set of possible maneuvers. From these logical scenarios, we derive concrete-level exact paths that actors must follow to guide simulation-based testing toward potential collisions. We conduct extensive experiments over two realistic road junctions with increasing number of external actors to (1) compare our scenario generation approach to the state-of-the-art Scenic tool and to (2) evaluate the behavior of a state-of-the-art learning-based ADS controller. Results show that (1) our approach outperforms Scenic both in terms of achieved coverage and runtime, and (2) that the ADS-under-test is involved in increasing percentages of unsafe behaviors in simulation, which vary according to abstract scenario properties.},
+	year = {2026},
+	eissn = {1619-1374},
+	orcid-numbers = {Ficsor, Attila/0000-0002-0541-4590; Semeráth, Oszkár/0000-0002-3592-5105; Varró, Dániel/0000-0002-8790-252X}
+}
+
+@inproceedings{MTMT:34872599,
+	title = {Refinery: Graph Solver as a Service: Refinement-based Generation and Analysis of Consistent Models},
+	author = {Marussy, Kristóf and Ficsor, Attila and Semeráth, Oszkár and Varró, Dániel},
+	booktitle = {ICSE-Companion '24: Proceedings of the 2024 IEEE/ACM 46th International Conference on Software Engineering: Companion Proceedings},
+	doi = {10.1145/3639478.3640045},
+	unique-id = {34872599},
+	year = {2024},
+	pages = {64-68},
+	orcid-numbers = {Marussy, Kristóf/0000-0002-9135-8256; Ficsor, Attila/0000-0002-0541-4590; Semeráth, Oszkár/0000-0002-3592-5105; Varró, Dániel/0000-0002-8790-252X},
+
+	url_pdf = {publications/icse24.pdf}, 
+	url_mtmt = {https://m2.mtmt.hu/api/publication/34872599},
+	abstract = {Various software and systems engineering scenarios rely on the systematic construction of consistent graph models. However, automatically generating a diverse set of consistent graph models for complex domain specifications is challenging. First, the graph generation problem must be specified with mathematical precision. Moreover, graph generation is a computationally complex task, which necessitates specialized logic solvers. Refinery is a novel open-source software framework to automatically synthesize a diverse set of consistent domain-specific graph models. The framework offers an expressive high-level specification language using partial models to succinctly formulate a wide range of graph generation challenges. Moreover, it provides a modern cloud-based architecture for a scalable graph solver as a service, which uses logic reasoning rules to efficiently synthesize a diverse set of solutions to graph generation problems by partial model refinement. Applications include system-level architecture synthesis, test generation for modeling tools or traffic scenario synthesis for autonomous vehicles. Video demonstration: https://youtu.be/Qy-3udNsWsM. Continuously deployed at: https://refinery.services/. © 2024 IEEE Computer Society. All rights reserved.},
+}
+
 @inproceedings{MTMT:33283704,
 	title = {An Initial Performance Analysis of Graph Predicate Evaluation over Partial Models},
+	isbn = {9789634218722},
 	author = {Ficsor, Attila and Semeráth, Oszkár},
 	booktitle = {Proceedings of the 29th Minisymposium of the Department of Measurement and Information Systems Budapest University of Technology and Economics},
 	doi = {10.3311/MINISY2022-001},
 	unique-id = {33283704},
 	year = {2022},
 	pages = {1-4},
-	orcid-numbers = {Ficsor, Attila/0000-0002-0541-4590},
+	orcid-numbers = {Ficsor, Attila/0000-0002-0541-4590; Semeráth, Oszkár/0000-0002-3592-5105},
 
 	url_pdf = {publications/minisy22.pdf}, 
 	url_mtmt = {https://m2.mtmt.hu/api/publication/33283704},
 	abstract = {Graph-based modeling tools are widely used during the design, analysis and verification of complex critical systems. Those tools enables the automation of several design steps (e.g., by model transformation), and the early analysis of system designs (e.g. by test generation). The evaluation of complex graph predicates (or graph pattern matching) is a core technique in modeling and model transformation, and essential in scalable graph generation. This motivated the integration of industrial graph pattern matching tools directly to advanced data structures used in model checking and logic reasoning algorithms. In this paper we provide a report of a preliminary performance benchmark combining the incremental graph pattern matching algorithm of the Viatra framework with hash tries used for state space exploration on partial models.},
 }
 
-@inproceedings{MTMT:33283785,
+@CONFERENCE{MTMT:33283785,
 	title = {Toolchain for the Construction of Realistic Simulated Urban Environments},
 	author = {Ficsor, Attila and Pintér, Balázs},
-	booktitle = {The 13th Conference of PhD Students in Computer Science},
+	booktitle = {The 13th Conference of PhD Students in Computer Science : June 29 – July 1, 2022 Szeged, Hungary},
 	unique-id = {33283785},
 	year = {2022},
 	pages = {40-44},
@@ -27,10 +71,10 @@
 	abstract = {Testing safety-critical autonomous vehicles (cars, trains, or trams) is an incredibly challenging task: those systems need to interact with an immensely complex and continuously changing environment, making systematic testing unfeasible. Moreover, physical test drives are highly costly, making simulator-based testing a favorable alternative. However, synthetic simulations may fail to provide realistic sensor input, thus hindering the effectiveness of the testing process. This paper proposes a toolchain for the semi-automated construction of realistic road networks using real-world maps. Therefore, better quality simulations can be implemented with higher productivity.},
 }
 
-@inproceedings{MTMT:33283734,
+@CONFERENCE{MTMT:33283734,
 	title = {Semantic Robustness Testing for Vision-Based Machine Learning Components of Autonomous Cyber-Physical Systems},
 	author = {Ficsor, Attila},
-	booktitle = {The 13th Conference of PhD Students in Computer Science},
+	booktitle = {The 13th Conference of PhD Students in Computer Science : June 29 – July 1, 2022 Szeged, Hungary},
 	unique-id = {33283734},
 	year = {2022},
 	pages = {35-39},
@@ -39,16 +83,4 @@
 	url_pdf = {publications/cscs22_1.pdf}, 
 	url_mtmt = {https://m2.mtmt.hu/api/publication/33283734},
 	abstract = {Autonomous cyber-physical systems often utilize vision-based machine learning components. They are frequently part of a safety critical system, requiring special attention during testing. However, testing these systems is an incredibly challenging task, as they need to interact with an immensely complex and continuously changing environment. This makes systematic testing and other safety engineering best practices unfeasible. While some approaches aim to test vision-based machine learning components, these cannot guarantee robustness. In this paper I present a research roadmap of addressing this challenge by (1) proposing a semantic-based robustness testing suite generation approach, (2) determining the minimum level of detail necessary for testing in a simulator, and (3) finding the aspects of the simulation affecting the results. I illustrate my proposed approach on an industrial case study.},
-}
-
-@inproceedings{icse2024,
-    author = {Marussy, Krist\'of and Ficsor, Attila and Semeráth, Oszk\'ar and Varr\'o, D\'aniel},
-    title = {Refinery: Graph Solver as a Service},
-    year = {2024},
-    booktitle = {Proceedings of the IEEE/ACM 46th International Conference on Software Engineering: Demonstrations},
-    note = {(Accepted)},
-    type = {Conference},
-
-	url_pdf = {publications/icse24.pdf}, 
-	abstract = {Various software and systems engineering scenarios rely on the systematic construction of consistent graph models. However, automatically generating a diverse set of consistent graph models for complex domain specifications is challenging. First, the graph generation problem must be specified with mathematical precision. Moreover, graph generation is a computationally complex task, which necessitates specialized logic solvers. Refinery is a novel open-source software framework to automatically synthesize a diverse set of consistent domain-specific graph models. The framework offers an expressive high-level specification language using partial models to succinctly formulate a wide range of graph generation challenges. Moreover, it provides a modern cloud-based architecture for a scalable graph solver as a service, which uses logic reasoning rules to efficiently synthesize a diverse set of solutions to graph generation problems by partial model refinement. Applications include system-level architecture synthesis, test generation for modeling tools or traffic scenario synthesis for autonomous vehicles.},
 }
